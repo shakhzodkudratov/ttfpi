@@ -1,0 +1,10 @@
+name = "ttfpi"
+version = "0.1.0"
+defaultTargets = ["ttfpi"]
+
+[[lean_lib]]
+name = "TTFPI"
+
+[[lean_exe]]
+name = "ttfpi"
+root = "Main"
